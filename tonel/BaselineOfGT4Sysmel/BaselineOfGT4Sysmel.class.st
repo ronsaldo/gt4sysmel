@@ -12,7 +12,7 @@ BaselineOfGT4Sysmel >> baseline: spec [
 		spec baseline: #'SysmelPhanideCore' with: [
 				spec
 					repository: 'github://ronsaldo/sysmel' ].
-		spec baseline: #'PhanideGT' with: [
+		spec baseline: #'GT4Phanide' with: [
 				spec
 					repository: 'github://ronsaldo/gt4phanide' ].
 	].
